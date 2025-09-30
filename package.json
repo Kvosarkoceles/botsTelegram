@@ -1,0 +1,19 @@
+{
+  "name": "telegram-file-bot",
+  "version": "1.0.0",
+  "description": "Bot de Telegram para registro de usuarios y almacenamiento de archivos",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.0",
+    "mime-types": "^2.1.35"
+  },
+  "keywords": ["telegram", "bot", "files", "nodejs"],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}

@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 123456789,
+      "username": "usuario_ejemplo",
+      "first_name": "Juan",
+      "last_name": "Pérez",
+      "registered_at": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 56814766,
+      "username": "kbyte",
+      "first_name": "M",
+      "last_name": "Mendoza",
+      "registered_at": "2025-09-28T04:20:02.488Z"
+    }
+  ]
+}

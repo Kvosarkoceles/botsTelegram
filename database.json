@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 56814766,
+      "username": "kbyte",
+      "first_name": "M",
+      "last_name": "Mendoza",
+      "registered_at": "2025-09-30T15:27:22.272Z"
+    }
+  ],
+  "files": [
+    {
+      "file_id": "BQACAgEAAxkBAAP1aNv3GqaodKV81lJGVvc7UouWFwkAAhMAAz3N4E7tuFfi_jdtRTYE",
+      "file_name": "test.odt",
+      "saved_name": "56814766_1759246107841_test.odt",
+      "file_path": "/home/kvo/Documentos/Sitrackmx/bot-telegram/downloads/other/56814766_1759246107841_test.odt",
+      "file_type": "other",
+      "mime_type": "application/octet-stream",
+      "user_id": 56814766,
+      "uploaded_at": "2025-09-30T15:28:27.845Z",
+      "file_size": 9522
+    }
+  ]
+}
